@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @golee922
+- 🌱 I’m currently learning Javascript, Python and Java. 
