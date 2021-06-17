@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @golee922
+- 👋 Hi, I’m Goeun
 - 🌱 I’m currently learning Javascript, Python and Java. 
